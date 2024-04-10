@@ -1,11 +1,12 @@
 # Life
-The new explorer language is OUT! Will be deployed in 4 days. But, the new exploring language is out. Wait until 14/04/24.
+The new explorer language, Life is **OUT TODAY LUCKILY 🥳!** Type exit in the terminal to end the program.
 
 # IMPORTANT NOTICE
-**Important Notice:** _Life is on one line code. We are still making the life platform to code life in multiple lines. Please, code on one line for only now._
+**Important Notice:** _Life is on one line code. I am now making the life platform to code life in multiple lines. Please, code on one line for only now._
+**Another Important Notice:** _After the platform is out, I will be working on the preview._
 
 # Other
-Please download the file before running. Some syntaxes will not be in the one line code.
+Please download files before running. Some syntaxes will not be in the one line code.
 
 # Unavailable Syntaxes
 1. Walkto(individual);
@@ -13,3 +14,5 @@ Please download the file before running. Some syntaxes will not be in the one li
 3. Loop(number) { _Code Here_ };
 4. From life get _Your module name here_;
 5. Conditions but not conditions (Conditions are complex)
+6. Update { _Code here_ };
+7. Booleans
