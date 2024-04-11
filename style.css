@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.about_life {
+    font-weight: lighter;
+    border: transparent;
+    width: 521px;
+}
+.about_installation-container {
+    justify-content: space-around;
+    display: flex;
+}
+.installation {
+    font-weight: lighter;
+    border: transparent;
+    width: 521px;
+}
+.iOS {
+    height: 112px;
+    cursor: pointer;
+}
+@keyframes important {
+    from {
+        transform: translateX(-900px);
+    }
+    to {
+        transform: translateX(0px);
+    }
+}
+.syntaxes {
+    animation: important 2s ease;
+}
+.QR-codebtn {
+    height: 27px;
+    width: 184px;
+    font-size: medium;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    color: white;
+    background: transparent;
+}
