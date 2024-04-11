@@ -17,3 +17,5 @@ Please download files before running. Some syntaxes will not be in the one line 
 5. Conditions but not conditions (Conditions are complex)
 6. Update { _Code here_ };
 7. Booleans
+
+![Life](https://github.com/Aarooshsaifanboy322/Life.github.io/assets/164038746/4e81d9a4-9313-4836-b158-b9eaa1ec7f51)
