@@ -1,5 +1,6 @@
 # Life
-The new explorer language, Life is **OUT TODAY LUCKILY 🥳!** Type exit in the terminal to end the program.
+The new explorer language, Life was **OUT YESTERDAY LUCKILY 🥳!** Type exit in the terminal to end the program.                    
+  
 
 # IMPORTANT NOTICE
 **Important Notice:** _Life is on one line code. I am now making the life platform to code life in multiple lines. Please, code on one line for only now._
