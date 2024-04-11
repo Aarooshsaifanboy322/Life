@@ -18,4 +18,7 @@ Please download files before running. Some syntaxes will not be in the one line 
 6. Update { _Code here_ };
 7. Booleans
 
+# Very sad notice
+This repository won't be public for 4 days due to an error occured 😭😭 that means, no download 😭
+
 ![Life](https://github.com/Aarooshsaifanboy322/Life.github.io/assets/164038746/4e81d9a4-9313-4836-b158-b9eaa1ec7f51)
