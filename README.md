@@ -1,5 +1,5 @@
 # Life
-The new explorer language, Life was **OUT YESTERDAY LUCKILY 🥳!** Type exit in the terminal to end the program.                    
+The new explorer language, Life was **OUT!** Type exit in the terminal to end the program.                    
   
 
 # IMPORTANT NOTICE
